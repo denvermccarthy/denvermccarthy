@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there!👋
 
-<!--
-**denvermccarthy/denvermccarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm Denver. A software developer, foodie, and outdoor enthusiast. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here's some things about me..
+
+- 🔭 I’m currently working on my portfolio website that I plan to style with TailwindCSS, a tool I've never used before.
+- 🌱 I’m currently learning the PERN stack. (Postgres, Express, React, Node)
+- 💬 Ask me about some of my previous projects.
+- 📫 How to reach me: I'm very active on [Linkedin](https://www.linkedin.com/in/denvermccarthy/) or you can email me at dmichaelspdx@gmail.com
+- 😄 Pronouns: He/Him
 -->
+
+I'd love to chat about anything code related, feel free to reach out!
