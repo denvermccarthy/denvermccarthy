@@ -14,3 +14,5 @@ Here's some things about me..
 - 😄 Pronouns: He/Him
 
 I'd love to chat about anything code related, feel free to reach out!
+
+[![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denvermccarthy)](https://github.com/anuraghazra/github-readme-stats)
