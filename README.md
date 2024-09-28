@@ -6,7 +6,7 @@ I'm Denver. A software developer, foodie, and outdoor enthusiast.
 
 Here are some things about me...
 
-- 🔭 I currently work at Pop Art, writing custom software for clients and developing our [SaaS product](https://www.bamsales.io/).
+- 🔭 My latest software work was at Pop Art, writing custom software for clients and developing their [SaaS product](https://www.bamsales.io/).
 - 🌐 I love doing code challenges. Check out my codewars [profile](https://www.codewars.com/users/denvermccarthy) and join my clan!
 - 🌱 Some tech I love working with: AWS, React (Native, Web), Node, Express, Postgres
 - 💬 Ask me about some of my previous projects.
