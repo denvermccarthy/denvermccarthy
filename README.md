@@ -2,11 +2,11 @@
 
 ---
 
-I'm Denver. A software developer, foodie, and outdoor enthusiast. 
+I'm Denver. A software dev, foodie, and outdoor enthusiast. 
 
 Here are some things about me...
 
-- 🔭 My latest software work was at Pop Art, writing custom software for clients and developing their [SaaS product](https://www.bamsales.io/).
+- 🔭 I'm currently building software for [Interaptiv Media](https://interaptiv.com)!
 - 🌐 I love doing code challenges. Check out my codewars [profile](https://www.codewars.com/users/denvermccarthy) and join my clan!
 - 🌱 Some tech I love working with: AWS, React (Native, Web), Node, Express, Postgres
 - 💬 Ask me about some of my previous projects.
@@ -15,4 +15,3 @@ Here are some things about me...
 
 I'd love to chat about anything code-related. Feel free to reach out!
 
-[![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denvermccarthy&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
