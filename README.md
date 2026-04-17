@@ -12,7 +12,7 @@ I'm still in the early stages of my formal education, but have had the opportuni
 
 That got me pretty fired up about learning **HPC** concepts, so working on a simple cluster and learning some sysadmin stuff have been my main focus outside of work/studies.
 
-##  ๋࣭ ⭑✮💻₊ ⊹ work 
+###  ๋࣭ ⭑✮💻₊ ⊹ work 
 
 Previously, I worked heavily in the **react ecosystem** utilizing **aws** for cloud infrastructure. 
 
