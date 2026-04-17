@@ -22,8 +22,9 @@ Earning my living: When I am pulled into something technical at work, it's build
 
 I love food, and stuff that has to do with going outside. Like riding my bike, or hiking with my dog at Portland's 1000 acre dog park.
 
-˗ˏˋ ☏ ˎˊ˗
 
-If you want to get in touch, you can email me: dmichaelspdx at gmail dot com. I also try to be active on [Linkedin](https://www.linkedin.com/in/denvermccarthy/) without getting depressed.
+### ˗ˏˋ ☏ ˎˊ˗ contact
+
+If you want to get in touch, you can email me: dmichaelspdx at gmail dot com. I also try to be active on [linkedin](https://www.linkedin.com/in/denvermccarthy/).
 
 
