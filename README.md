@@ -25,6 +25,6 @@ I love food, and stuff that has to do with going outside. Like riding my bike, o
 
 ### ˗ˏˋ ☏ ˎˊ˗ contact
 
-If you want to get in touch, you can email me: dmichaelspdx at gmail dot com. I also try to be active on [linkedin](https://www.linkedin.com/in/denvermccarthy/).
+If you want to get in touch, you can email me: dmichaelspdx at gmail dot com. I'm also checking [linkedin](https://www.linkedin.com/in/denvermccarthy/).
 
 
