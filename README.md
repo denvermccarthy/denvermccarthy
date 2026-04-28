@@ -6,9 +6,9 @@ I'm Denver. I was a software engineer working on mobile/web react applications, 
 
 Some things about me...
 
-### ₊˚.✩ school
+###  school
 
-I'm still in the early stages of my formal education, but have had the opportunity to do some cool stuff so far. I've been learning the fundamentals of CS in **c++** (they are teaching us vim btw), and had the cool opportunity of attending SC25 as a **competitor in the SCC Connect program** (formerly IndySCC). 
+I'm still in the early stages of my formal education, but have had the opportunity to do some cool stuff so far. I've been learning the fundamentals of CS in **c++**, and had the cool opportunity of attending SC25 as a **competitor in the SCC Connect program** (formerly IndySCC). 
 
 That got me pretty fired up about learning **HPC** concepts, so working on a simple cluster and learning some sysadmin stuff have been my main focus outside of work/studies.
 
