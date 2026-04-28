@@ -20,7 +20,7 @@ Earning my living: When I am pulled into something technical at work, it's build
 
 ### interests
 
-I love food and activities that involve going outside like riding my bike, or hiking with my dog.
+I love food and activities that involve going outside, like riding my bike or hiking with my dog.
 
 
 ### ˗ˏˋ ☏ ˎˊ˗ contact
